@@ -1,5 +1,5 @@
 ### Hey, there! 👋 
-I am Harold Martina Patacsil, a 17-year old Senior High School STEM student.
+I am Harold Martin Patacsil, a 17-year old Senior High School STEM student.
 
 <!--
 **yskooo/yskooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
