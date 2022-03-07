@@ -1,6 +1,6 @@
 ### Hey, there! 👋 
 I am Harold Martin Patacsil, a 17-year old Senior High School STEM student. 
-https://www.linkedin.com/in/harold-martin-patacsil-369842220/
+
 ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 <!--
