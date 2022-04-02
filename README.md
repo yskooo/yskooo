@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with seniors to help and guide for a clearer and better  decisions in this field. 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I only learn front-end development for compensation haha
 
 
    ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=react&hide_border=false)
