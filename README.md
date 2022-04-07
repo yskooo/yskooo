@@ -9,7 +9,7 @@ I am Harold Martin Patacsil, a 17-year old Senior High School STEM student.
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Front-End Web Development
-- -🌱 I’m currently learning Vanilla JavaScript!
+- 🌱 I’m currently learning Vanilla JavaScript!
 - 👯 I’m looking to collaborate on people that are constantly seeking for improvements and growth!
 - 🤔 I’m looking for help with seniors to help and guide for a clearer and better  decisions in this field. 
 <!-- 💬 Ask me about ...
