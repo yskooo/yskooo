@@ -1,8 +1,6 @@
 ###                                                          Hey, there! 👋 
 I am Harold Martin Patacsil, a 17-year old Senior High School STEM student. 
-
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=react&show_icons=true&hide_border=false&count_private=true)
-
 
 <!--**yskooo/yskooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
