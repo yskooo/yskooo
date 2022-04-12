@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Front-End Web Development.
 
-- ⚡ I love building elegant landing pages. 
+- ⚡ I love working on building responsive landing pages. 
 
 - 🌱 I’m have a profound interest on full stack software development, machine learning, and blockchain!
 
