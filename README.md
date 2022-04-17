@@ -1,5 +1,7 @@
 ###                                                          Hey, there! 👋 
-I am Harold Martin Patacsil, a 17-year old Senior High School STEM student.  
+I am Harold Martin Patacsil, a 17-year old Senior High School STEM student.   <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=react&show_icons=true&hide_border=false&count_private=true)
 
@@ -25,7 +27,5 @@ Here are some ideas to get you started: -->
    
  ![Visitor Count](https://profile-counter.glitch.me/{yskooo}/count.svg)
  
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+ 
 
