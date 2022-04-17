@@ -22,4 +22,6 @@ Here are some ideas to get you started: -->
 
    ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=react&hide_border=false)
    ![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)
+   
+   ![counter](https://[yskooo].m.pipedream.net)
 
