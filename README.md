@@ -1,13 +1,12 @@
 ###                                                          Hey, there! 👋 
 I am Harold Martin Patacsil, a 17-year old Senior High School STEM student.   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 <!--**yskooo/yskooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+  https://komarev.com/ghpvc/?username=your-github-username
 
 - 🔭 I am currently working on Front-End Web Development.
 
@@ -25,7 +24,7 @@ Here are some ideas to get you started: -->
    ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=react&hide_border=false)
    ![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)
    
- ![Visitor Count](https://profile-counter.glitch.me/{yskooo}/count.svg)
+ g)
  
  
 
