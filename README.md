@@ -24,4 +24,8 @@ Here are some ideas to get you started: -->
    ![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)
    
  ![Visitor Count](https://profile-counter.glitch.me/{yskooo}/count.svg)
+ 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
