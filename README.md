@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 - ⚡ I love working on building responsive landing pages. 
 
-- 🌱 I’m have a profound interest on full stack software development, machine learning, and blockchain!
+- 🌱 I’m have a profound interest on Full Stack Software Development, Machine learning, and Blockchain!
 
 - 👯 I’m looking to collaborate on people that are constantly seeking for improvements and growth!
 
