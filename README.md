@@ -3,7 +3,6 @@
 I am Harold Martin Patacsil
 =======================================
 
-<hr>
 Front-End Web Developer
 -----------------------
 
