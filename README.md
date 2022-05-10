@@ -49,16 +49,11 @@ I am Harold Martin Patacsil
    ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=react&hide_border=false)
    ![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)
    
-<!-- <div id="badges">
-  <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!--<a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>-->
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
