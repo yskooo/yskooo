@@ -4,7 +4,7 @@
 I am Harold Martin Patacsil
 =======================================
 
-<h6>// Frontend Web Developer</h6>
+<h4>// Frontend Web Developer</h4>
 
 <li> a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</li>
 
