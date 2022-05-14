@@ -35,7 +35,7 @@ I am Harold Martin Patacsil
 
 - 🔭 I am currently working on Front-End Web Development.
 
-- ⚡ I love working on building responsive landing pages. 
+- ⚡ I love working on building responsive landing pages from scratch. 
 
 - 🌱 I’m have a profound interest on full stack software development, machine learning, cybersecurity, and blockchain!
 
