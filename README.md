@@ -1,4 +1,5 @@
-<h2>Hey, there! 👋</h2>
+<h5>Hey, there! 👋</h5>
+<hr>
 
 
 I am Harold Martin Patacsil
