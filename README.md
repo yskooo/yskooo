@@ -1,5 +1,7 @@
+<hr>
+
 <h5>Hey, there! 👋</h5>
-<hr style="color:blue;">
+<hr>
 
 
 I am Harold Martin Patacsil
