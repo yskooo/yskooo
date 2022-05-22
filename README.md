@@ -54,7 +54,7 @@ I am Harold Martin Patacsil
 - ⚡ Fun fact: ... -->
 
    ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=react&hide_border=false)
-   ![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)
+<!--![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)-->
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 
