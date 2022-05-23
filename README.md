@@ -1,6 +1,6 @@
 <hr>
 
-<h5 style="color:blue;">Hey, there! 👋</h5>
+<h5>Hey, there! 👋</h5>
 <hr>
 
 
