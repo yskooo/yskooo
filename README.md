@@ -1,4 +1,3 @@
-<hr>
 
 <h5>Hey, there! 👋</h5>
 <hr>
