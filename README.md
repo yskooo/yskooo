@@ -43,7 +43,7 @@ I am Harold Martin Patacsil
 
 - ⚡ I love working on building responsive landing pages from scratch. 
 
-- 🌱 I’m have a profound interest on full stack software development, machine learning, cybersecurity, and blockchain!
+- 🌱 I’m have a profound interest on Full Stack Software Development, Machine Learning, Cybersecurity, and Blockchain!
 
 - 👯 I’m looking to collaborate on people that are constantly seeking for improvements and growth!
 
