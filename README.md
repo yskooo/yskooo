@@ -41,7 +41,7 @@ I am Harold Martin Patacsil
 
 - 🔭 I am currently working on Web Development, specifically on MERN Stack.
 
-- ⚡ I love working on building responsive landing pages from scratch. 
+- ⚡ I love working on building Responsive Landing Pages from scratch. 
 
 - 🌱 I’m have a profound interest on Full Stack Software Development, Machine Learning, Cybersecurity, and Blockchain!
 
