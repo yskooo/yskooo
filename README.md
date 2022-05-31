@@ -8,7 +8,7 @@ I am Harold Martin Patacsil
 
 <h4>// MERN Stack Developer on the making.</h4>
 
-<li> I am a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</li>
+<li> a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</li>
 
 <hr>
 <h6>// kindly, reach me out here! </h6>
