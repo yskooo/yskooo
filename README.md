@@ -50,7 +50,7 @@ I am Harold Martin Patacsil
 
 - 👯 I’m looking to collaborate on people that are constantly seeking for improvements and growth!
 
-- 🤔 I’m looking for help with seniors to help, mentor, and guide for a clearer and better  decisions in this field. 
+- 🤔 I’m looking for help with seniors to help, mentor, and guide for a better and wiser decisions in this field. 
 <!-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
