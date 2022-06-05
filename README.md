@@ -11,7 +11,7 @@ I am Harold Martin Patacsil
 <li> a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</li>
 
 <hr>
-<h6>// kindly, reach me out here! </h6>
+<h6>// Kindly, reach me out here! </h6>
 
 <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
