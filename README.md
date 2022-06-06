@@ -3,7 +3,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 
-I am Harold Martin Patacsil
+Harold Martin Patacsil
 =======================================
 
 <h4>// MERN Stack Developer on the making.</h4>
