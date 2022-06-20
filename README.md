@@ -1,5 +1,4 @@
-
-<p align=""center> [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg) </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg)
 <hr>
 
 
