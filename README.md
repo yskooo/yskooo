@@ -1,5 +1,5 @@
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg)
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 
