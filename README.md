@@ -11,12 +11,12 @@
 
 
 
-  ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=react&show_icons=true&hide_border=false&count_private=true)
+  ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
  
 
   ### Tech Stack
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -47,7 +47,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
-   ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=react&hide_border=false)
+   ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
 <!--![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)-->
    
 
