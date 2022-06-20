@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg)
 
 <li> a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</li>
 
