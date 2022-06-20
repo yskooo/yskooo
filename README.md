@@ -2,8 +2,7 @@
 
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
  
-<p align="center"> a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</p>
-
+<p align="center"> I'm a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</p>
 
 <h5>// Kindly, reach me out here! </h5>
 
