@@ -2,16 +2,20 @@
 
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
   ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
- 
-<p align="center"> I'm a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</p>
+
 
 <h5>// Kindly, reach me out here! </h5>
 
 <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
+ 
+ [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+<hr>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 
+<!--
   ### Tech Stack
 
 <p align="center">
