@@ -51,10 +51,3 @@
 
   
 <!--![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)-->
-   
-
-
-[<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
-<hr>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
