@@ -15,28 +15,6 @@
  [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
 <hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
- <div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=yskooo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=yskooo&theme=tokyonight&hide_border=true" />
-</div>
-
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Harold+Martin+Patacsil;Glad+to+meet+you!&center=true&size=30">
-    </a>
-</h1>
-  ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-  ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
-
- [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
-<hr>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
- <div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=yskooo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=yskooo&theme=tokyonight&hide_border=true" />
-</div>
 
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 
