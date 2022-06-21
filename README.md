@@ -10,8 +10,7 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=yskooo&theme=tokyonight&hide_border=true" />
 </div>
 
-  ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-  ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
+
 
  [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
 <hr>
