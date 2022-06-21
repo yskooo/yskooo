@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg)
 
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+  ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
  
 <p align="center"> I'm a 17-year old Senior High School STEM student based in Pangasinan, Philippines.</p>
 
@@ -44,7 +45,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
-   ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
+  
 <!--![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)-->
    
 
