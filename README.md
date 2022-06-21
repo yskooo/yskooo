@@ -3,13 +3,6 @@
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
   ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
 
-
-<h5>// Kindly, reach me out here! </h5>
-
-<a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- 
  [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
 <hr>
 
@@ -50,7 +43,14 @@
 - 🤔 I’m looking for help with seniors to help, mentor, and guide for a better and wiser decisions in this field. 
 <!-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --
 
+
+<h5>// Kindly, reach me out here! </h5>
+
+<a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ 
   
 <!--![yskooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=react&show_icons=true&hide_border=false&layout=compact)-->
