@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hey%2C+there!;I'm+Harold+Martin+Patacsil)](https://git.io/typing-svg)
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Harold+Martin+Patacsil;Glad+to+meet+you!&center=true&size=30">
+    </a>
+</h1>
 
   ![yskooo's Stats](https://github-readme-stats.vercel.app/api?username=yskooo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
   ![yskooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yskooo&theme=dracula&hide_border=false)
