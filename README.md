@@ -12,7 +12,7 @@
 
 
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
+ [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
 <hr>
 
 <div align="center">
@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yskooo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)"> </p>
+
     
 <!--
   ### Tech Stack
