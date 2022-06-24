@@ -10,11 +10,6 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=yskooo&theme=tokyonight&hide_border=true" />
 </div>
 
-
-
- [<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yskooo" alt="yskooo" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)</p>
-<hr>
-
 <div align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
