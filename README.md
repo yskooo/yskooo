@@ -10,6 +10,7 @@
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=yskooo&theme=tokyonight&hide_border=true" />
 </div>
 
+<h3 align="center">Technology Stack</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
