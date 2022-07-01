@@ -1,18 +1,8 @@
-<h1 align="center">
+<h2 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Harold;Glad+to+meet+you!&center=true&size=30">
     </a>
-</h1>
-
-<div align="center">
-   <a target="_blank" href="https://www.instagram.com/ysko.jsx/">
-     <img src="./assets/instagram.svg" alt="Harold Martin Patacsil | Instagram" />
-   </a>
-   <a target="_blank" href="https://twitter.com/princecaarlo/">
-     <img src="./assets/twitter.svg" alt="Harold Martin Patacsil | LinkedIn" />
-   </a>
-</div>
-
+</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 <div align=center>
