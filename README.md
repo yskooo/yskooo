@@ -35,11 +35,14 @@
 <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
-    
  <a href="https://www.instagram.com/ysko.jsx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
  </div>
+ 
+ 
+ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
+
 
 
     
