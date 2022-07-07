@@ -4,6 +4,18 @@
     </a>
 </h2>
 
+<h3 align="center">Social Networks</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <a href="https://www.instagram.com/ysko.jsx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ </a>
+ </div>
+ 
+ 
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 <div align=center>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=yskooo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
@@ -30,15 +42,7 @@
 </div>
 
 
-<h3 align="center">Let us conncect!</h3>
-<div align="center">
-<a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="https://www.instagram.com/ysko.jsx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
- </a>
- </div>
+
 
 
 
