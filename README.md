@@ -30,9 +30,10 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<hr>
 
 <h4 align="center">I am also a Senior High School Student, Athlete, Developer, and a Philomath.</h4>
-<h3 align="center">Connect with me through,</h3>
+<h5 align="center">Connect with me through,</h5>
 <div align="center">
 <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
