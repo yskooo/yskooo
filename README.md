@@ -32,7 +32,7 @@
 
 <hr>
 
-<h4 align="center">I am also a Senior High School Student, Athlete, Developer, and a Philomath.</h4>
+<h4 align="center">I am also a Senior High School Student, Athlete, Developer, and a Philomath.</h4><h6 align="left>//kinda</h6>
 <h5 align="center">Connect with me through,</h5>
 <div align="center">
 <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
