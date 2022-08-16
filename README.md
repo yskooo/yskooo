@@ -3,7 +3,6 @@
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Harold;Glad+to+meet+you!&center=true&size=30">
     </a>
 </h2>
-
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo" /> </p>
 <div align=center>
