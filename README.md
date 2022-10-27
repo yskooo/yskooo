@@ -32,7 +32,7 @@
 <hr>
 
 <h5 align="center"></h5>
-<h5 align="center">Let's Connect!</h5>
+<h5 align="center"></h5>
 <div align="center">
 <a href="https://www.linkedin.com/in/harold-martin-patacsil-369842220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
