@@ -1,8 +1,8 @@
-<h2 align="center">
+<!-- <h2 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Harold Martin Patacsil;Glad+to+meet+you!;Let's Connect!&center=true&size=30">
     </a>
-</h2>
+</h2> -->
  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yskooo&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo"/></p>
 <div align=center>
