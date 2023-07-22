@@ -28,9 +28,7 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div> -->
-
-<hr>
-
+<!--
 <h5 align="center"></h5>
 <h5 align="center"></h5>
 <div align="center">
@@ -40,4 +38,4 @@
  <a href="https://www.instagram.com/ysko.jsx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
-</div>
+</div> -->
